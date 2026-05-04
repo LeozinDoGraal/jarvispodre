@@ -8,12 +8,12 @@ Ali depois do if que tá escrito leonardo é o que vc tem que falar para acontec
 
 As bibliotecas usadas ficaram abaixo: 
 
-import queue
-import sounddevice as sd
-import vosk
-import json
-import pyttsx3
-import webbrowser
-import threading
-import tkinter as tk
-from tkinter import messagebox
+queue
+sounddevice as sd
+vosk
+json
+pyttsx3
+webbrowser
+threading
+tkinter as tk
+tkinter import messagebox
