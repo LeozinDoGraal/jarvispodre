@@ -9,11 +9,19 @@ Ali depois do if que tá escrito leonardo é o que vc tem que falar para acontec
 As bibliotecas usadas ficaram abaixo: 
 
 queue
+
 sounddevice as sd
+
 vosk
+
 json
+
 pyttsx3
+
 webbrowser
+
 threading
+
 tkinter as tk
+
 tkinter messagebox
