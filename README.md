@@ -16,4 +16,4 @@ pyttsx3
 webbrowser
 threading
 tkinter as tk
-tkinter import messagebox
+tkinter messagebox
